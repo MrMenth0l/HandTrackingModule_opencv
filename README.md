@@ -6,3 +6,4 @@ This is a simple handtracking module, using opencv and mediapipe
    and it can track specific landmarks for each hand
    
    
+   This module is a modified version from the freeCodeCamp.org from the Advanced Computer Vision with Python - Full Course video, https://www.youtube.com/watch?v=01sAkU_NvOY&t=2778s 
